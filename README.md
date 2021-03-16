@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Piotr Mazurek. Currently I live and work in Gliwice.
+- 👀 I’m interested in start a first job as a frontend developer.
+- 🔥  My hobbys: skating, cooking, listening music, and of course coding
+- 🌱 I’m currently learning Java Script (React in the near future)
